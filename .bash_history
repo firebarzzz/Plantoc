@@ -54,3 +54,62 @@ pwd -L
 pwd -P
 pwd
 git config--
+git status
+git branch
+git checkout -b ajout-pages
+git add .
+git rm --cached -r Plantoc
+git status
+ls -la
+git rm --cached -r -f Plantoc
+git add .
+git status
+git rm --cached -r Plantoc
+git rm --cached -r -f Plantoc
+git status
+git status 
+ls -la
+cd Plantoc
+git status
+git checkout ajout-pages
+git checkout -b ajout-pages
+ls -la
+touch accueil.html nous-rencontrer.html commander.html
+ls -la
+git checkout -b ajout-pages
+git checkout ajout-pages
+git add accueil.html nous-rencontrer.html commander.html
+git commit -m "Ajout des pages Accueil, Nous rencontrer et Commander"
+git push origin ajout-pages
+git status
+git log --oneline
+cd
+cd /chemin/vers/Plantoc
+cd
+git status
+git add.
+git add .
+cd "C:/Users/firebarzzz/Documents/Plantoc"
+cd /c/Users/firebarzzz/Documents/Plantoc
+cd
+cd /c/Users
+cd "C:/Users"
+cd firebarzzz/Documents
+ls
+ls
+cd Sony/Documents
+ls
+cd Plantoc
+ls
+cd "openclassrooms exercice en vrac"
+find /cygdrive/c -name "Plantoc"
+cd
+cd /cygdrive/c/cygwin64/home/SONY/Plantoc
+cd /cygdrive/c/cygwin64/home/SONY/Plantoc
+cd /cygdrive/c/cygwin64/home/SONY/Plantoc
+git status
+git add .
+git commit -m "Creantion de strucuture et medias query"
+git push origin main
+git push origin ajout-pages
+git log
