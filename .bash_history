@@ -113,3 +113,10 @@ git commit -m "Creantion de strucuture et medias query"
 git push origin main
 git push origin ajout-pages
 git log
+git status
+git add .
+git commit -m "ajout des medias query"
+git push origin ajout-pages
+git pull origin ajout-pages
+git push origin ajout-pages
+cd
