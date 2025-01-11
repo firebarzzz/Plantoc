@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2020-04-11 22:13:30+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release)','language'=>'fr','messages'=>['Responsive Menu'=>'Menu responsive','Settings'=>'Paramètres','Search'=>'Rechercher','Highly Customisable Responsive Menu Plugin for WordPress'=>'Extension de menu responsive hautement personnalisable pour WordPress','https://responsive.menu'=>'https://responsive.menu']];
